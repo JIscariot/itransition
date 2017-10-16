@@ -3,8 +3,8 @@ Itransition test
 Import csv products list to database. Based on Symfony 3.
 
 # Run
-bin/console products:update 
-bin/console products:update test
+-bin/console products:update 
+-bin/console products:update test
 
 ## Test
 php vendor/bin/simple-phpunit
