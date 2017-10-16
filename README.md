@@ -7,7 +7,7 @@ Import csv products list to database. Based on Symfony 3.
 - bin/console products:update test
 
 ## Test
-php vendor/bin/simple-phpunit
+- vendor/bin/simple-phpunit
 
 ### TODO
 - Import data from csv using LOAD DATA INFILE
